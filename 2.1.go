@@ -19,4 +19,4 @@ func main() {
     // fmt.Println("Player 1 score after update:", player1Score)
     // fmt.Println("Player 2 score:", player2Score)
     homework()
-}
+ }
